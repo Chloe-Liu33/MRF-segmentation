@@ -1,5 +1,6 @@
 # object segmentation
-mimic locust segmetation based on K-means, Fuzzy C-means , Markov Random Field and watershed, but the results are just not satisfing
+mimic locust segmetation based on K-means, Fuzzy C-means , Markov Random Field and watershed, but the results are not so good
+
 ## k-means results
 ![image](https://github.com/Chloe-Liu33/MRF-segmentation/blob/main/results/k-means.png)
 ## FCM
